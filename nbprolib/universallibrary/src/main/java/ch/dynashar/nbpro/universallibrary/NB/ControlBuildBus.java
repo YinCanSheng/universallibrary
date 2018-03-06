@@ -6,4 +6,9 @@ package ch.dynashar.nbpro.universallibrary.NB;
  */
 
 public class ControlBuildBus {
+
+
+  public static String intControl(){
+    return "第一次使用";
+  }
 }

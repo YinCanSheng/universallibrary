@@ -6,4 +6,6 @@ package ch.dynashar.nbpro.universallibrary.NB;
  */
 
 public class ProTotalControl {
+
+
 }
